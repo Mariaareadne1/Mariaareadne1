@@ -138,8 +138,8 @@ class Maria:
 <br/><br/>
 
 <!-- Bonus classic stat cards (work instantly, no setup — delete if you don't want them) -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mariaareadne1&show_icons=true&theme=ice_borderless&icon_color=89cff0&title_color=6cb4ee&text_color=6cb4ee&hide_border=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaareadne1&layout=compact&theme=ice_borderless&title_color=6cb4ee&text_color=6cb4ee&hide_border=true" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mariaareadne1&show_icons=true&hide_border=true&icon_color=89cff0&title_color=6cb4ee&text_color=6cb4ee&bg_color=ffffff" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaareadne1&layout=compact&hide_border=true&title_color=6cb4ee&text_color=6cb4ee&bg_color=ffffff" alt="top langs" />
 
 </div>
 
